@@ -1,0 +1,31 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DIV                     30E9
+//	DIVISION                30A4
+//	DIVLOC                  30C1
+//	GREETING                303E
+//	GREETING2               305E
+//	LOOP                    30DA
+//	LOOP1                   30F0
+//	MEMR7                   30BE
+//	MUL                     30CE
+//	MULLOC                  30C0
+//	MULREM                  30C3
+//	MULTIPLICATION          3094
+//	NEG                     30DF
+//	NEG1                    30F5
+//	NEG48                   30BA
+//	NEWLINE                 3085
+//	POS48                   30BB
+//	REMAIN                  302C
+//	REMAINDER               30AE
+//	REMLOC                  30C2
+//	RESTART                 30D3
+//	START                   3000
+//	SUB                     30C4
+//	SUBLOC                  30BF
+//	SUBTRACTION             3087
+//	USERINPUT               30BC
+//	USERINPUT2              30BD
+//	ZERO                    30E3
+//	ZERO1                   30F7
